@@ -1,4 +1,6 @@
 hello-child
 i am making changes in my master branch
 ramani
-conflict in child
+snigdha
+raja ramani snigdha
+conflict in master
